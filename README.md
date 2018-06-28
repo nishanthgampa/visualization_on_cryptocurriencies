@@ -13,3 +13,4 @@ In the third part, we wanted to visualize which coins have had the biggest gains
  
 In the Fourth part, we wanted to take the whole visualization a bit further so we plotted a candle stick chart of the coins that had a median gain percentage above zero and trend lines to see the growth potential of the coins.
 From the analyses, we could conclude that all the coins have a positive trend and they show good long term potential for growth of coin value.
+
